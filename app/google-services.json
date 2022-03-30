@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926950495577",
+    "firebase_url": "https://pjcalories-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pjcalories",
+    "storage_bucket": "pjcalories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926950495577:android:6dbb569629ca6f9208a848",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926950495577-6dluq9aslcumpld1as58obhtgvbsh3af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCbxRuJkr-nejeNqMvM-EukAJOMet3V0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926950495577-6dluq9aslcumpld1as58obhtgvbsh3af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
